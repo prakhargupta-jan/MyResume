@@ -4,12 +4,12 @@
 		"label": "Student",
 		"picture": "---Enter Image URL----",
 		"email": "2020KUEC2007@iiitkota.ac.in",
-		"phone": "9460245653",
+		"phone": "+91 9460245653",
 		"website": "---Enter Link of website(if any) ---",
-		"summary": "Hello, I am Prakhar Gupta. /n Currently working in field of cyber security along with competitive programming and Devlopments. I am a tech enthusiast who believes in ",
+		"summary": "Hello, I am Prakhar Gupta. Currently working in field of cyber security along with competitive programming and Devlopment. I am a tech enthusiast who believes in constantly learning and have been a part of Gurugram Police Cyber Cell Summer Internship 2021. I believe in a simple ideology that whatever you learn never goes to waste.",
 		"location": {
-			"address": "82, Soni Ka Bag, Sikar Road, Murlipura, Jaipur",
-			"postalCode": "302039",
+			"address": "---",
+			"postalCode": "---",
 			"city": "Jaipur",
 			"countryCode": "India",
 			"region": "Rajasthan"
@@ -40,7 +40,7 @@
 		"company": "---",
 		"position": "----",
 		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
+		"startDate": "2020-12-02//Take care about Date Format",
 		"endDate": "Date // ",
 		"summary": "---Tell me something About Org. --- ",
 		"highlights": ["Add Highlights", "Your work details"]
@@ -60,9 +60,9 @@
 		"studyType": "Bachelor (hons)",
 		"startDate": "2018-04-08 //Date",
 		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"gpa": "8.45",
 		"courses": [
-			"Computer Science & Engineering"
+			"Electronics and Communications Engineering"
 		]
 	}],
 	"awards": [{
@@ -77,7 +77,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Penetration Testing", "Open Source Intelligence"]
 	}],
 	"interests": [{
 		"name": "Sports",
