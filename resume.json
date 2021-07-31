@@ -2,14 +2,14 @@
 	"basics": {
 		"name": "Prakhar Gupta",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "https://media-exp1.licdn.com/dms/image/C4E03AQGArVamA5INKg/profile-displayphoto-shrink_400_400/0/1627749606225?e=1632960000&v=beta&t=xSTWTTKB6n7XNW81AJqVkfvlv4_tgZLn-qnktqBE5bc",
 		"email": "2020KUEC2007@iiitkota.ac.in",
 		"phone": "+91 9460245653",
 		"website": "---Enter Link of website(if any) ---",
 		"summary": "Hello, I am Prakhar Gupta. Currently working in field of cyber security along with competitive programming and Devlopment. I am a tech enthusiast who believes in constantly learning and have been a part of Gurugram Police Cyber Cell Summer Internship 2021. I believe in a simple ideology that whatever you learn never goes to waste.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
+			"address": "82, Soni Ka Bag, Sikar Road, Murlipura",
+			"postalCode": "302039",
 			"city": "Jaipur",
 			"countryCode": "India",
 			"region": "Rajasthan"
@@ -58,7 +58,7 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "2020-12-02 //Date",
 		"endDate": "----",
 		"gpa": "8.45",
 		"courses": [
