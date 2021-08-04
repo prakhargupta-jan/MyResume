@@ -5,7 +5,6 @@
 		"picture": "https://media-exp1.licdn.com/dms/image/C4E03AQGArVamA5INKg/profile-displayphoto-shrink_400_400/0/1627749606225?e=1632960000&v=beta&t=xSTWTTKB6n7XNW81AJqVkfvlv4_tgZLn-qnktqBE5bc",
 		"email": "2020KUEC2007@iiitkota.ac.in",
 		"phone": "+91 9460245653",
-		"website": "---Enter Link of website(if any) ---",
 		"summary": "Hello, I am Prakhar Gupta. Currently working in field of cyber security along with competitive programming and Devlopment. I am a tech enthusiast who believes in constantly learning and have been a part of Gurugram Police Cyber Cell Summer Internship 2021. I believe in a simple ideology that whatever you learn never goes to waste.",
 		"location": {
 			"address": "82, Soni Ka Bag, Sikar Road, Murlipura",
@@ -14,11 +13,7 @@
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
+		"profiles": [
 			{
 				"network": "Github",
 				"username": "prakhargupta-jan",
@@ -36,44 +31,15 @@
 			}
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-12-02//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2020-12-02 //Date",
-		"endDate": "----",
 		"gpa": "8.45",
 		"courses": [
 			"Electronics and Communications Engineering"
 		]
-	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
 	}],
 	"skills": [{
 		"level": "Master",
@@ -82,6 +48,5 @@
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Chess", "Badminton"]
-	}],
-	"references": []
+	}]
 }
